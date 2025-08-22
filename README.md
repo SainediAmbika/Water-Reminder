@@ -1,15 +1,15 @@
-#💧** Water Reminder App**
+# Water Reminder App 💧
 ```
 A simple Flutter application that helps users track their daily water intake and sends push notifications using Firebase Cloud Messaging (FCM) to remind them to drink water.
 ```
-# 🚀 Features
+## 🚀 Features
 * 🔵 Circular progress bar to track daily water intake.
 * ✅ Add water intake with predefined options (e.g., 200ml, 500ml).
 * 🔔 Push notifications with FCM.
 * 🌍 Cross-platform support: Android & Web.
 
 
-# 📂 Project Structure
+## 📂 Project Structure
 ```
 lib/
  ├── main.dart                 # Entry point of the app
@@ -18,7 +18,9 @@ lib/
       ├── home_screen.dart          # UI with circular progress bar and water intake buttons
       └── notification_service.dart # FCM setup and notification handling
 ```
-# 🛠️ Setup Instructions
+
+
+## 🛠️ Setup Instructions
 1️⃣ Prerequisites
 * Flutter SDK installed
 * Firebase project setup (for Android & Web)
@@ -33,24 +35,24 @@ Run the FlutterFire CLI to generate firebase_options.dart: 	flutterfire config
 	flutter run
 
 
-# 📱 Usage
+## 📱 Usage
 1. Open the app → You’ll see a circular progress bar.
 2. Tap on water drop buttons to log your intake.
 3. Progress updates accordingly.
 4. Notifications are sent via FCM as reminders.
 
 
-# 🔔 Notifications
+## 🔔 Notifications
 * Uses Firebase Cloud Messaging for push notifications.
 * Ensure notifications are enabled on the device.
   
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 * Flutter
 * Firebase Cloud Messaging (FCM)
 * Dart
 
   
-# 📸 Screenshots
+## 📸 Screenshots
 <img width="466" height="992" alt="Screenshot 2025-08-22 at 12 57 31 PM" src="https://github.com/user-attachments/assets/e1c4130c-e562-41b9-8514-9ad9ab4bdb26" />
 <img width="478" height="999" alt="Screenshot 2025-08-22 at 12 57 48 PM" src="https://github.com/user-attachments/assets/33a6299d-9463-47d9-9305-0d1c46fc0c08" />
 <img width="473" height="998" alt="Screenshot 2025-08-22 at 12 58 21 PM" src="https://github.com/user-attachments/assets/c9f226ba-8a81-4626-96c2-61cb0e368066" />
@@ -62,7 +64,7 @@ Run the FlutterFire CLI to generate firebase_options.dart: 	flutterfire config
 
 
 
-# 🎥 App Demo
+## 🎥 App Demo
 
 https://github.com/user-attachments/assets/9db5f907-c0f7-4938-8b69-5186649e6dc7
 
