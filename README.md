@@ -1,4 +1,4 @@
-#💧 Water Reminder App
+💧** Water Reminder App**
 ```
 A simple Flutter application that helps users track their daily water intake and sends push notifications using Firebase Cloud Messaging (FCM) to remind them to drink water.
 ```
