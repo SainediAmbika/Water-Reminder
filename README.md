@@ -62,7 +62,7 @@ Run the FlutterFire CLI to generate firebase_options.dart: 	flutterfire config
 
 
 
-🎥 App Demo
+# 🎥 App Demo
 
 https://github.com/user-attachments/assets/9db5f907-c0f7-4938-8b69-5186649e6dc7
 
