@@ -51,7 +51,14 @@ Run the FlutterFire CLI to generate firebase_options.dart: 	flutterfire config
 
   
 # 📸 Screenshots
-(Add your app screenshots here)
+<img width="466" height="992" alt="Screenshot 2025-08-22 at 12 57 31 PM" src="https://github.com/user-attachments/assets/e1c4130c-e562-41b9-8514-9ad9ab4bdb26" />
+<img width="478" height="999" alt="Screenshot 2025-08-22 at 12 57 48 PM" src="https://github.com/user-attachments/assets/33a6299d-9463-47d9-9305-0d1c46fc0c08" />
+<img width="473" height="998" alt="Screenshot 2025-08-22 at 12 58 21 PM" src="https://github.com/user-attachments/assets/c9f226ba-8a81-4626-96c2-61cb0e368066" />
+<img width="474" height="997" alt="Screenshot 2025-08-22 at 12 58 58 PM" src="https://github.com/user-attachments/assets/de627285-6a07-44b4-b4d4-d019071d1204" />
+<img width="1920" height="1013" alt="Screenshot 2025-08-22 at 1 10 55 PM" src="https://github.com/user-attachments/assets/4b847c24-e869-48af-949d-ede1e06f3cf5" />
+
+
+
 
 
 
